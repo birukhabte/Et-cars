@@ -83,8 +83,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/project_next13_car_showcase.git
-cd project_next13_car_showcase
+https://github.com/birukhabte/Et-cars.git
 ```
 
 **Installation**
